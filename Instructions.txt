@@ -4,3 +4,9 @@ I am using Python 3 version to run this project
 While running this project we have need to install a dependencies
 
 1) pip install pyperclip
+
+Now, we can run project 
+This program run trough the command prompt, because this is command line program which requireds parameters
+Open up command promapt and fire command with the city name as a parameter 
+
+>>python mapIt.py maharashtra
